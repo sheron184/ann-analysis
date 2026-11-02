@@ -1,0 +1,13 @@
+# React
+client/node_modules/
+client/dist/
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment files
+.env
